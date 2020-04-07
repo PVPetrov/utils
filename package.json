@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/PVPetrov/utils/issues"
   },
-  "homepage": "https://github.com/PVPetrov/utils#readme"
+  "homepage": "https://github.com/PVPetrov/utils#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
 }
