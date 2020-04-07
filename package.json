@@ -1,0 +1,23 @@
+{
+  "name": "@pvpetrov/utils",
+  "version": "1.0.0",
+  "description": "Util library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PVPetrov/utils.git"
+  },
+  "keywords": [
+    "utils",
+    "pvpetrov"
+  ],
+  "author": "PVPetrov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PVPetrov/utils/issues"
+  },
+  "homepage": "https://github.com/PVPetrov/utils#readme"
+}
